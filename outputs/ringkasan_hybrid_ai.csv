@@ -1,0 +1,5 @@
+kategori_hybrid,jumlah_data,jumlah_anomali,skor_rata_rata,persentase
+Anomali - AI saja,282,282,-0.02597,2.47
+Anomali - Rule-Based + AI,961,961,-0.03297,8.42
+Anomali - Rule-Based saja,5304,5304,0.07707,46.47
+Normal,4868,0,0.0984,42.65
