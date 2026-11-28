@@ -1,0 +1,10 @@
+Informasi,Nilai
+Total Data Testing,11415.0
+Rule-Based Anomali,2611.0
+Isolation Forest Anomali,1532.0
+Hybrid AI Anomali,3403.0
+Severity Rendah,732.0
+Severity Sedang,2660.0
+Severity Tinggi,11.0
+Rata-rata Skor Severity,34.87
+Skor Severity Tertinggi,85.0
